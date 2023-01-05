@@ -1,0 +1,61 @@
+﻿@media 
+{
+.riSingle .riTextBox {width: 100% !important;}
+}
+.RadTabStrip .rtsLink, .RadTabStripVertical .rtsLink {padding-left: 8px;}
+.rdpStandard {width: 100px !important;}
+.RadGrid_Default {border: 0px;}
+.NTSBheader {text-align: left; font-size: 20pt;}
+.recDetailsCol1 {width: 20%;}
+.recDetailsCol2 {width: 50%;}
+.recHistoryCol1 {width: 5%;}
+.recHistoryCol2 {width: 50%;}
+h2 {}
+A:hover {color: #064166;}
+A:active {color: #064166;}
+div.RadPicker table {width: 150px !important;}
+.riSingle {overflow: hidden;}
+.NTSBGridToolbar {background-color: #EEEEEE; text-align: right;}
+.NTSBAdresseeHeader {
+	line-height: 20px;
+	font-size: 12px;
+	background-color: #D7DBDB;
+	font-variant: small-caps;
+	font-weight: bold;
+}
+.noborder {border: 0px none !important;}
+select {
+	border: 1px solid #AAA;
+	color: #555;
+	font-size: inherit;
+	margin: 0;
+	overflow: hidden;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+input {
+	border: 1px solid #AAA;
+	color: #555;
+	font-size: inherit;
+	margin: 0;
+	overflow: hidden;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.button {
+	border: 1px solid #96d1f8;
+	background: #152439;
+	color: #fff;
+	cursor: pointer;
+	padding: 5px 10px;
+}
+.button:hover {
+	border: 1px solid #96d1f8;
+	background: #bfdbff;
+	color: #00156e;
+	cursor: pointer;
+}
